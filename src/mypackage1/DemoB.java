@@ -12,7 +12,6 @@ public class DemoB {
 	public void testA(){
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.google.co.in/");
-		System.out.println("mavenproject-git-jenkins-H&N");
 		driver.close();
 		
 	}
